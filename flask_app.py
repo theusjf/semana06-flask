@@ -36,7 +36,3 @@ def contextorequisicao():
         '<h2>O host da aplicação é: {}</h2>'
         '<a href="/">Voltar</a>'
     ).format(user_agent, remote_ip, host)
-
-
-
-
